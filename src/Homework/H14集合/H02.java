@@ -1,5 +1,7 @@
 package Homework.H14集合;
 
+import org.junit.jupiter.api.Test;
+
 import java.util.ArrayList;
 
 public class H02 {
@@ -34,6 +36,8 @@ class Car{
         this.price = price;
     }
 
+
+    @Test
     public String getName() {
         return name;
     }
