@@ -1,4 +1,4 @@
-package Learn.LE17;
+package Learn.LE17_Thread;
 
 //继承Thread类，创建线程
 public class Thread01 {

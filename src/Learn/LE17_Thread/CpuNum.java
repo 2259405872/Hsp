@@ -1,4 +1,4 @@
-package Learn.LE17;
+package Learn.LE17_Thread;
 
 public class CpuNum {
     public static void main(String[] args) {

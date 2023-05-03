@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b388eb32-9abf-4088-9dee-91dc933dcab9" name="Changes" comment="master">
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE16_JPanel/Event/BallMove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE17/CpuNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE17/Thread01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE17/Thread02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE17/Thread03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE17_Thread/SellTickit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE17_Thread/ThreadExit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE17_Thread/Thread_Join_Yield.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Learn/LE16_JPanel/DrawCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn/LE16_JPanel/Draw/DrawCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/P01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learn/LE17/CpuNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn/LE17_Thread/CpuNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learn/LE17/Thread01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn/LE17_Thread/Thread01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learn/LE17/Thread02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn/LE17_Thread/Thread02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learn/LE17/Thread03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn/LE17_Thread/Thread03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,7 @@
       <workItem from="1682991466260" duration="23000" />
       <workItem from="1682991497834" duration="6984000" />
       <workItem from="1683006350107" duration="7621000" />
-      <workItem from="1683079423537" duration="1289000" />
+      <workItem from="1683079423537" duration="6100000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1681367837316</created>
@@ -123,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682819030578</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="master">
+      <created>1683080826478</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683080826478</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

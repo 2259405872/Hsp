@@ -1,4 +1,4 @@
-package Learn.LE17;
+package Learn.LE17_Thread;
 
 //实现Runnable接口，创建线程
 public class Thread02 {
