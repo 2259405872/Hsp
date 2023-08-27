@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<c3p0-config>
+    <default-config>
+        <!--连接池配置名-->
+        <name-config name="ys">
+            <!--数据库的连接账号(账号基本上都是root)-->
+            <property name="user">root</property>
+            <!--数据库的连接密码-->
+            <property name="password">yssyyc</property>
+            <!--获取数据库连接(newsmanagersystem)是数据库的名称-->
+            <property name="jdbcUrl">jdbc:mysql://localhost:3306/hsp?rewriteBatchedStatements=true</property>
+            <!--连接MySQL数据库的配置文件 注：等号前后不要有空格-->
+            <!--驱动名-->
+            <property name="driverClass">com.mysql.jdbc.Driver</property>
+            <!--连接池初始化的时候连接数-->
+            <property name="initialPoolSize">10</property>
+            <!--连接池中连接的最大个数-->
+            <property name="maxPoolSize">100</property>
+            <!--用户获得Connection的时候，如果有连接就获得,没有就等待时间，如果超时就报异常-->
+            <property name="maxIdleTime">30</property>
+            <!--连接池中连接的最小个数-->
+            <property name="minPoolSize">10</property>
+            <!--每次增长的连接数-->
+            <property name="acquireIncrement">5</property>
+        </name-config>
+    </default-config>
+</c3p0-config>

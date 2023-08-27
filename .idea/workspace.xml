@@ -5,82 +5,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b388eb32-9abf-4088-9dee-91dc933dcab9" name="Changes" comment="master">
-      <change afterPath="$PROJECT_DIR$/src/Homework/H17线程/H01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/H17线程/H02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/H19IO流/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/H19IO流/H01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/H19IO流/H02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/H19IO流/H03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/H19IO流/mytemp/dog.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/H19IO流/mytemp/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/H19IO流/mytemp/hhh.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/H21WebCode/H01Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/H21WebCode/H01Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/H21WebCode/H02_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework/H21WebCode/H02_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE17_Thread/DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/PrintWriter_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/Properties_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/a.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/buffer/BufferedReader_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/buffer/BufferedWriter_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/c.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/file/FileCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/file/FileInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/file/FileOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/objectStream_/Test_inputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/objectStream_/Test_outputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestInetAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestSocket/TCP01_Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestSocket/TCP01_Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestSocket/TCP02_Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestSocket/TCP02_Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestSocket/TCP03_Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestSocket/TCP03_Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestSocket/TCP04_Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestSocket/TCP04_Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestSocket/UDP01_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestSocket/UDP01_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/boom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame02/EnemyTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame02/MyPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame02/MyTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame03/EnemyTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame03/MyPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame03/MyTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame03/Shot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame03/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame03/TankGame03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame04/Bomb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame04/EnemyTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame04/MyPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame04/MyTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame04/Shot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame04/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame04/TankGame04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame05/Bomb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame05/EnemyTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame05/MyPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame05/MyTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame05/Shot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame05/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame05/TankGame05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame06/Bomb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame06/EnemyTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame06/MyPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame06/MyTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame06/Recorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame06/Shot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame06/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame06/TankGame06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallProject/TankGame06/recorder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/c3p0_0_9_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_dbutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/druid_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/c3p0-0.9.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/commons-dbutils-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/druid-1.1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/mysql-connector-j-8.0.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestSocket/TCP05_DownFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/TestSocket/TCP05_UpFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE21_WebCode/bomb03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE23_Reflection/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE23_Reflection/ReflecAccessProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE23_Reflection/ReflecCreateInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE23_Reflection/Test_Reflection01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE23_Reflection/Test_Reflection02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE23_Reflection/Test_Reflection03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE23_Reflection/class_/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE23_Reflection/class_/Test_Class01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE23_Reflection/class_/Test_Class02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE23_Reflection/re.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/ApacheDBUtils/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/ApacheDBUtils/Test01_ApacheDBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/Batch/Test01_Batch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/DataSource/Test_DataSource_C3p0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/DataSource/Test_DataSource_Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/DataSource/Z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/DataSource/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/DataSource/c3p0-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/JDBCUtils_Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/Statement/Test01_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/Statement/Test02_PreparedStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/Test01_JDBC_Connect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/Test02_JDBC_Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/Test02_ResultSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/mysql.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learn/LE25_JDBC/测试语句.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SQL/All和Any的使用.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SQL/事务01_使用.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SQL/事务02_隔离.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SQL/增强查询.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SQL/索引的使用.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SQL/自增长的使用.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/Dao/BasicDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/Dao/DiningTableDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/Dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/Dao/MenuDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/Domain/DiningTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/Domain/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/Domain/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/Service/DiningTableService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/Service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/Service/MenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/Utils/JDBCUtils_Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/Utils/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/View/MHLView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/MHL/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Client/common/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Client/common/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Client/common/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Client/service/ClientConnectServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Client/service/ManageClientConnectServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Client/service/UserClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Client/utils/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Client/view/QQView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Server/common/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Server/common/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Server/common/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Server/frame/QQFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Server/service/ManageServerConnectClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Server/service/QQServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallProject/QQ01_Server/service/ServerConnectClientThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/P02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/smallProject/TankGame/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smallProject/TankGame02/Tank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hsp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Hsp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Learn/LE19_IO/Properties_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn/LE19_IO/Properties_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/P01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/P01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,12 +95,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0a75667b-6fac-4f21-9510-0c390dbae00a" />
+        <option name="url" value="git@github.com:2259405872/Hsp.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -125,7 +144,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/学习/计算机/NewJava/Hsp/src/smallProject/TankGame06&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/学习/计算机/NewJava/Hsp/src/smallProject/MHL/Utils&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -133,71 +152,34 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\学习\计算机\NewJava\Hsp\src\smallProject\TankGame06" />
-      <recent name="D:\学习\计算机\NewJava\Hsp\src\smallProject\TankGame05" />
-      <recent name="D:\学习\计算机\NewJava\Hsp\out\production\Hsp" />
-      <recent name="D:\学习\计算机\NewJava\Hsp\src\smallProject\TankGame04" />
-      <recent name="D:\学习\计算机\NewJava\Hsp\src\smallProject\TankGame03" />
+      <recent name="D:\学习\计算机\NewJava\Hsp\src\smallProject\MHL\Utils" />
+      <recent name="D:\学习\计算机\NewJava\Hsp\libs" />
+      <recent name="D:\学习\计算机\NewJava\Hsp\src\Learn\LE25_JDBC\DataSource" />
+      <recent name="D:\学习\计算机\NewJava\Hsp\src\smallProject\QQ01_Server" />
+      <recent name="D:\学习\计算机\NewJava\Hsp\src\smallProject\QQ01_Client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\学习\计算机\NewJava\Hsp\src\smallProject\MHL" />
+      <recent name="D:\学习\计算机\NewJava\Hsp\src\Learn\LE25_JDBC" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="Learn.LE16_JPanel" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="smallProject.MHL.Utils" />
+      <recent name="smallProject.QQ01_Server.common" />
       <recent name="Homework.H19IO流.mytemp" />
       <recent name="smallProject.TankGame03" />
     </key>
-  </component>
-  <component name="RunManager" selected="应用程序.BufferedReader_Test">
-    <configuration name="BufferedReader_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learn.LE19_IO.buffer.BufferedReader_Test" />
-      <module name="Hsp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learn.LE19_IO.buffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BufferedWriter_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learn.LE19_IO.buffer.BufferedWriter_Test" />
-      <module name="Hsp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learn.LE19_IO.buffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learn.LE19_IO.file.FileOutput" />
-      <module name="Hsp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Learn.LE19_IO.buffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.BufferedReader_Test" />
-        <item itemvalue="应用程序.FileOutput" />
-        <item itemvalue="应用程序.BufferedWriter_Test" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -270,6 +252,30 @@
       <workItem from="1690379917490" duration="306000" />
       <workItem from="1690417548900" duration="2239000" />
       <workItem from="1690443889190" duration="3015000" />
+      <workItem from="1690447257057" duration="169000" />
+      <workItem from="1690505385337" duration="3315000" />
+      <workItem from="1690528280847" duration="5774000" />
+      <workItem from="1690550199179" duration="25000" />
+      <workItem from="1690770357118" duration="6059000" />
+      <workItem from="1690941366860" duration="4596000" />
+      <workItem from="1690961140471" duration="4236000" />
+      <workItem from="1691112771668" duration="789000" />
+      <workItem from="1691453551079" duration="1230000" />
+      <workItem from="1691454891572" duration="803000" />
+      <workItem from="1691485472278" duration="1199000" />
+      <workItem from="1691498551805" duration="18000" />
+      <workItem from="1691551526376" duration="2319000" />
+      <workItem from="1691637056870" duration="6957000" />
+      <workItem from="1691673028416" duration="2582000" />
+      <workItem from="1691929238768" duration="37000" />
+      <workItem from="1692185818070" duration="2583000" />
+      <workItem from="1692240912024" duration="3864000" />
+      <workItem from="1692262276263" duration="2149000" />
+      <workItem from="1692327208714" duration="7399000" />
+      <workItem from="1692409173106" duration="3700000" />
+      <workItem from="1692450769152" duration="11000" />
+      <workItem from="1692757805804" duration="7232000" />
+      <workItem from="1692773463723" duration="7133000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1681367837316</created>
@@ -306,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683164115790</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="master">
+      <created>1690447292436</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690447292436</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

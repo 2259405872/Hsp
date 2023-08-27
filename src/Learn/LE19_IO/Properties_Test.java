@@ -1,6 +1,5 @@
 package Learn.LE19_IO;
 
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
